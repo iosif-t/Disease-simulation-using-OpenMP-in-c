@@ -1,0 +1,1 @@
+# Disease-simulation-using-OpenMP-in-c
